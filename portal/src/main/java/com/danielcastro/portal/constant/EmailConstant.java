@@ -3,9 +3,9 @@ package com.danielcastro.portal.constant;
 public class EmailConstant {
 	public static final String SIMPLE_MAIL_TRANSFER_PROTOCOL= "smtps";
 	public static final String USERNAME = "vibliotecatest@gmail.com";
-	public static final String PASSWORD = "VibliotecaTest*";
+	public static final String PASSWORD = "";
 	public static final String FROM_EMAIL = "vibliotecatest@gmail.com";
-	public static final String CC_EMAIL = "dcastro9712s@gmail.com";
+	public static final String CC_EMAIL = "";
 	public static final String EMAIL_SUBJECT = "FakeCompany, LLC - New Password";
 	public static final String GMAIL_SMTP_SERVER = "smtp.gmail.com";
 	public static final String SMTP_HOST = "mail.smtp.host";
